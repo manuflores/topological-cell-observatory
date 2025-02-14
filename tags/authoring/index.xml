@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authoring on topological cell observatory</title>
+    <link>http://localhost:1313/topological-cell-observatory/tags/authoring/</link>
+    <description>Recent Posts in Authoring on topological cell observatory</description>
+    <generator>Hugo 0.143.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Feb 2025 11:56:40 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/topological-cell-observatory/tags/authoring/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Authoring The Redaction History</title>
+      <link>http://localhost:1313/topological-cell-observatory/post/test/</link>
+      <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/topological-cell-observatory/post/test/</guid>
+      <description></description>
+      
+    </item>
+  </channel>
+</rss>

@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on topological cell observatory</title>
-    <link>https://manuflores.github.io/topological-cell-observatory/categories/</link>
+    <link>http://localhost:1313/topological-cell-observatory/categories/</link>
     <description>Recent Posts in Categories on topological cell observatory</description>
     <generator>Hugo 0.143.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Feb 2025 11:27:24 -0800</lastBuildDate>
-    <atom:link href="https://manuflores.github.io/topological-cell-observatory/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Feb 2025 12:19:32 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/topological-cell-observatory/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
