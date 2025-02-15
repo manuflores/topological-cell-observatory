@@ -5,7 +5,7 @@ target: 'https://example.com'
 coffee: 2
 ---
 
-<strong class="section-title">Thomson Lab @ Caltech <i class="icon copyleft"></i> 2025</strong>
+<strong class="section-title">Thomson Lab, Caltech <i class="icon copyleft"></i> 2025</strong>
 
 Some rights reserved.
 

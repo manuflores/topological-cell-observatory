@@ -12,7 +12,7 @@ defaultContentLanguage = 'en'
 ## Put default language in subdirectory
 defaultContentLanguageInSubdir = true
 ## Show placeholder for missing translations
-enableMissingTranslationPlaceholders = true
+enableMissingTranslationPlaceholders = truez
 ## Use sections for main menu
 # sectionPagesMenu = 'main'
 ## Files to ignore when building site
@@ -94,11 +94,11 @@ copyright = 'Copyright 2025 (c) Foxxi'
 ## Site parameters
 [params]
     ## Site title
-    title = "Example"
+    title = "topological cell observatory"
     ## Site description
-    description = "An ExampleSite built with Hugo and Hugo-Brewm theme"
+    description = ""
     ## Copyright notice
-    copyright = "Copyright 2025 (c) Foxxi"
+    copyright = "Copyright 2025 (c) Thomson Lab"
     ## Enable extended metadata (social cards)
     extMeta = true
     ## Enable coffee metric
@@ -107,18 +107,18 @@ copyright = 'Copyright 2025 (c) Foxxi'
     ## Author information
     [params.author]
         ## site author's name
-        name = 'Author Name'
+        name = 'Manu Flores'
         ## Author's email (will be used for RSS feed)
-        email = 'email@example.com'
+        email = 'manuflores@caltech.edu'
         ## Co-authors information (optional)
         coauthor = [
-            {name = "A.N. Other", bio = "This quick paragraph is written in site configuration (hugo.toml). Therefore, no markdown support. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."}
+            {name = "Binglun Shao", bio = ""}
         ]
 
     ## Comments configuration
     [params.comments]
         ## Disable comments (disable fediverse comments)
-        disabled = false
+        disabled = true
         ## Comment platform selection, currently only 'fediverse' is supported, further options to be determined
         # platform = 'fediverse'
 
