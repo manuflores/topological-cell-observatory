@@ -12,7 +12,7 @@ defaultContentLanguage = 'en'
 ## Put default language in subdirectory
 defaultContentLanguageInSubdir = true
 ## Show placeholder for missing translations
-enableMissingTranslationPlaceholders = truez
+enableMissingTranslationPlaceholders = true
 ## Use sections for main menu
 # sectionPagesMenu = 'main'
 ## Files to ignore when building site
