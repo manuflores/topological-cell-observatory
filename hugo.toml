@@ -10,9 +10,9 @@ canonifyURLs = true
 ## Default language for content
 defaultContentLanguage = 'en'
 ## Put default language in subdirectory
-defaultContentLanguageInSubdir = true
+defaultContentLanguageInSubdir = false
 ## Show placeholder for missing translations
-enableMissingTranslationPlaceholders = true
+enableMissingTranslationPlaceholders = false
 ## Use sections for main menu
 # sectionPagesMenu = 'main'
 ## Files to ignore when building site
