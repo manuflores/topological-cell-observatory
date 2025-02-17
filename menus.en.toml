@@ -1,0 +1,6 @@
+[[main]]
+  name       = 'Check the code!'
+  identifier = 'github'
+  weight     = 3
+  url        = 'https://github.com/manuflores/totopos'
+  pre        = 'github'
