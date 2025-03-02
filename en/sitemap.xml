@@ -2,31 +2,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/topological-cell-observatory/en/footer/</loc>
+    <loc>https://manuflores.github.io/topological-cell-observatory/en/footer/</loc>
     <lastmod>2025-02-17T12:38:36-08:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:1313/topological-cell-observatory/en/slide/</loc>
+    <loc>https://manuflores.github.io/topological-cell-observatory/en/slide/</loc>
+    <lastmod>2025-03-02T09:01:39-08:00</lastmod>
+    </url>
+  <url>
+    <loc>https://manuflores.github.io/topological-cell-observatory/en/</loc>
     <lastmod>2025-02-17T12:38:36-08:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:1313/topological-cell-observatory/en/</loc>
+    <loc>https://manuflores.github.io/topological-cell-observatory/en/pin/</loc>
     <lastmod>2025-02-17T12:38:36-08:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:1313/topological-cell-observatory/en/pin/</loc>
-    <lastmod>2025-02-17T12:38:36-08:00</lastmod>
-    </url>
-  <url>
-    <loc>http://localhost:1313/topological-cell-observatory/en/categories/</loc>
+    <loc>https://manuflores.github.io/topological-cell-observatory/en/categories/</loc>
     
     </url>
   <url>
-    <loc>http://localhost:1313/topological-cell-observatory/en/series/</loc>
+    <loc>https://manuflores.github.io/topological-cell-observatory/en/series/</loc>
     
     </url>
   <url>
-    <loc>http://localhost:1313/topological-cell-observatory/en/tags/</loc>
+    <loc>https://manuflores.github.io/topological-cell-observatory/en/tags/</loc>
     
     </url>
 </urlset>
