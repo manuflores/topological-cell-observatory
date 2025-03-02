@@ -1,6 +1,6 @@
 ---
 type: 'slide'
-title: 'Unravel insights from SC datasets using topology'
+title: 'Unravel insights from sc datasets using topology'
 cover: 'https://raw.githubusercontent.com/foxihd/hugo-et-hd/master/static/svg/flowlines/28.svg'
 weight: 1
 ---
