@@ -7,7 +7,5 @@ coffee: 47
 
 <strong class="section-title">Thomson Lab, Caltech <i class="icon copyleft"></i> 2025</strong>
 
-Some rights reserved.
-
 <br>
 <strong class="section-title">BBE Division</strong>
