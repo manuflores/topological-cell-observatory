@@ -102,7 +102,7 @@ copyright = 'Copyright 2025 (c) Foxxi'
     ## Enable extended metadata (social cards)
     extMeta = true
     ## Enable coffee metric
-    coffeeStat = true
+    coffeeStat = false
 
     ## Author information
     [params.author]
