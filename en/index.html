@@ -228,6 +228,21 @@
             
                     <!-- listing.html -->
                     <!-- listing.html -->
+        <div id="list-categories" class="carousel">
+            <header class="section-title">Categories</header>
+            <!-- taxonomies.html -->
+        <ul class="carousel__viewport" role="presentation">
+            
+                    <li  style="background-image:url(https://raw.githubusercontent.com/foxihd/hugo-et-hd/master/static/svg/flowlines/20.svg);">
+                        <a href="https://manuflores.github.io/topological-cell-observatory/en/categories/test/"
+                            aria-label="Category:Test"
+                            data-post-counter="1"
+                            >
+                            <span>Test</span>
+                        </a>
+                    </li>
+        </ul>
+        </div>
                 
     <!-- hero.html -->
     <div class="hero">
@@ -242,19 +257,79 @@
 
         </div>
         
+            <aside id="list-tags">
+                <header class="section-title">
+                    <strong>Discover Topics</strong>
+                </header>
+                <!-- taxonomies.html -->
+        <ul class="rounded has-hash" role="presentation">
+            
+                    <li  >
+                        <a href="https://manuflores.github.io/topological-cell-observatory/en/tags/markdown/"
+                            aria-label="Tag:Markdown"
+                            data-post-counter="1"
+                            >
+                            <span>Markdown</span>
+                        </a>
+                    </li>
+        </ul>
+                <nav>
+                    <a class="underline" href="https://manuflores.github.io/topological-cell-observatory/en/tags/">Explore more topics</a>
+                </nav>
+            </aside>
     
         
-            <div style="display: flex; height: var(--vbody);">
-        <div class="hero" style="margin: auto; width: var(--canonic);">
-            <div class="hero__image">
-                <img src="https://i.pinimg.com/736x/bf/34/76/bf3476c1569c5af162779ecbb4134c3a.jpg" alt="Not today, maybe tomorow..." decoding="async">
-            </div>
-            <div class="hero__content">
-                <h1 style="font-style: normal;">No articles to show.</h1>
-                <p>It appears that our author ran out of coffee... Keep calm, we&#39;ll brew one shortly!</p>
-            </div>
-        </div>
+            <section id="list-posts" class="pagewidth">
+                <header  class="section-title">
+                    <strong>
+                                Recent Posts
+                    </strong>
+                </header>
+                    <div role="feed" aria-busy="false">
+                        <article class="feed-item"
+        aria-posinset="1"
+        aria-setsize="1"
+        aria-labelledby="title-1"
+        aria-describedby="desc-1">
+        <hgroup>
+            <div>
+                <span><span>[Author Name]</span>
+                        <span>in</span>
+                            <!-- terms.html -->
+    <ul class="inline" role="presentation">
+            <li><a href="https://manuflores.github.io/topological-cell-observatory/en/categories/test/">Test</a></li>
+    </ul>
+                        
+                </span>
+                
+                <!-- timestamp.html-->
+    <div class="date-has-label">
+        <time class="doc-publish-date" datetime="2025-01-26T00:00:00&#43;00:00" data-time-label="Published on">January 26, 2025</time>
+            <time class="doc-lastmod-date" datetime="2025-04-16T15:14:04-07:00" data-time-label="Modified on">April 16, 2025</time>
     </div>
+            </div>
+            <h1 id="title-1">Markdown Test</h1>
+        </hgroup>
+        <a class="underline" href="https://manuflores.github.io/topological-cell-observatory/en/posts/markdown-test/" aria-label="Markdown Test"></a>
+        
+        <section class="has-cover">
+                <img class="flowlines" src="https://raw.githubusercontent.com/foxihd/hugo-et-hd/master/static/svg/flowlines/15.svg" alt="" style="object-position: 63% 34%" loading="lazy">
+            <div class="par" id="desc-1">Various sample Markdown test
+            </div>
+        </section>
+        <footer>
+            <span class="readingTime">2 min read
+            </span>
+            
+                <!-- terms.html -->
+    <ul class="rounded invert ldots" role="presentation">
+            <li><a href="https://manuflores.github.io/topological-cell-observatory/en/tags/markdown/">Markdown</a></li>
+    </ul>
+        </footer>
+    </article>
+                    </div>
+                    
+            </section>
         <!-- main/footer.html -->
     <hr class="hide">
         <footer id="main-footer">

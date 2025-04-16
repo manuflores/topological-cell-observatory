@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on topological cell observatory</title>
+    <link>https://manuflores.github.io/topological-cell-observatory/en/posts/</link>
+    <description>Recent Posts in Posts on topological cell observatory</description>
+    <generator>Hugo 0.143.1</generator>
+    <language>en-us</language>
+    <managingEditor>Manu Flores</managingEditor>
+    
+      <webMaster>Manu Flores</webMaster>
+    <copyright>Copyright 2025 (c) Foxxi</copyright>
+    <lastBuildDate>Wed, 16 Apr 2025 15:14:14 -0700</lastBuildDate>
+    <atom:link href="https://manuflores.github.io/topological-cell-observatory/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Markdown Test</title>
+      <link>https://manuflores.github.io/topological-cell-observatory/en/posts/markdown-test/</link>
+      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
+      <author>Manu Flores</author>
+      <guid>https://manuflores.github.io/topological-cell-observatory/en/posts/markdown-test/</guid>
+      <description></description>
+      
+    </item>
+  </channel>
+</rss>
