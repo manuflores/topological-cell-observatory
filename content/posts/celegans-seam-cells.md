@@ -1,6 +1,6 @@
 ---
 author : 'Emanuel Flores'
-title: "A topological loop in the seam cells of *C. elegans*"
+title: "A topological loop in the seam cells of C. elegans"
 description: "Case study of C. elegans developmental manifold topology"
 date: 2025-04-16
 type: post
@@ -21,6 +21,8 @@ It is transparent, and hence it is amenable to study using the microscope. This 
 completely map its embryogenesis cell-by-cell. Later on, they expanded this study to look at the division pattern post-embryogenesis. The remarkable thing from the cell lineage of *C. elegans* is that it 
 is invariant: all worms will have exactly the same number of cells, and division pattern. This remarkable property is particular to *C. elegans* across the tree of life. 
 
+<!--
 <div class="l-page">
-  <iframe src="{{ '/assets/interactive_plots/test.html' | relative_url }}" frameborder='0' scrolling='no' height="500px" width="100%" style="border: 1px dashed grey;"></iframe>
+  <iframe src="/interactive_plots/test.html" frameborder='0' scrolling='no' height="500px" width="100%" style="border: 1px dashed grey;"></iframe>
 </div>
+-->
