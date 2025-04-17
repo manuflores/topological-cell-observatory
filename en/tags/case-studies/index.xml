@@ -10,7 +10,7 @@
     
       <webMaster>Manu Flores</webMaster>
     <copyright>Copyright 2025 (c) Foxxi</copyright>
-    <lastBuildDate>Wed, 16 Apr 2025 17:04:01 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 17 Apr 2025 16:02:18 -0700</lastBuildDate>
     <atom:link href="https://manuflores.github.io/topological-cell-observatory/en/tags/case-studies/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A topological loop in the seam cells of C. elegans</title>
@@ -18,6 +18,15 @@
       <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
       <author>Manu Flores</author>
       <guid>https://manuflores.github.io/topological-cell-observatory/en/posts/celegans-seam-cells/</guid>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>The stem cells of Clytia haemispherica (WIP)</title>
+      <link>https://manuflores.github.io/topological-cell-observatory/en/posts/clytia-stem-cells/</link>
+      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
+      <author>Manu Flores</author>
+      <guid>https://manuflores.github.io/topological-cell-observatory/en/posts/clytia-stem-cells/</guid>
       <description></description>
       
     </item>
