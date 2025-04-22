@@ -20,13 +20,27 @@ categories: ['case-studies']
 </div>
 -->
 
+
 ## *C. elegans*, a model organism of developmental biology
 
 The worm *Caenorhabditis elegans* is a fantastic model organism for developmental biology for many reasons. 
 It is transparent, and hence it is amenable to study using the microscope. This property allowed Sulston and Horvitz to 
-completely map its embryogenesis cell-by-cell. Later on, they expanded this study to look at the division pattern post-embryogenesis. The remarkable thing from the cell lineage of *C. elegans* is that it is invariant: all individuals from this species will have an identical division pattern. 
+completely map its embryogenesis cell-by-cell. Later on, they expanded this study to look at the division pattern post-embryogenesis. The remarkable thing from the cell lineage of *C. elegans* is that it is invariant: all individuals from this species will have an identical division pattern.
+This property of cell invariance is known as [eutely](https://en.wikipedia.org/wiki/Eutely).
 
-<!--picture goes here-->
+{{< figure
+  src="https://raw.githubusercontent.com/manuflores/topological-cell-observatory/refs/heads/main/assets/images/celegans-cell-lineage.png"
+  label="celegans-cell-lineage"
+  title="A setion of the embryonic lineage of C. elegans (ABarp)"
+  caption=""
+  attr="Sulston et al. 1983"
+  attrlink="https://www.sciencedirect.com/science/article/pii/0012160683902014"
+  alt="Napoleonic wars"
+  link="https://www.sciencedirect.com/science/article/pii/0012160683902014"
+ >}}
+{{< section "end" >}}
+
+<!--![A section of the embryonic lineage of C. elegans from Sulston et al. 1983]()-->
 
 ## Seam cells are lateral hypodermic cells with a stem like fate
 
