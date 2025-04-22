@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>topological cell observatory</title>
-    <link>http://localhost:1313/topological-cell-observatory/en/</link>
+    <link>https://manuflores.github.io/topological-cell-observatory/en/</link>
     <description>Recent Posts on topological cell observatory</description>
     <generator>Hugo 0.143.1</generator>
     <language>en-us</language>
@@ -10,23 +10,23 @@
     
       <webMaster>Manu Flores</webMaster>
     <copyright>Copyright 2025 (c) Foxxi</copyright>
-    <lastBuildDate>Tue, 22 Apr 2025 00:31:37 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/topological-cell-observatory/en/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Apr 2025 00:35:06 -0700</lastBuildDate>
+    <atom:link href="https://manuflores.github.io/topological-cell-observatory/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A topological loop in the seam cells of C. elegans</title>
-      <link>http://localhost:1313/topological-cell-observatory/en/posts/celegans-seam-cells/</link>
+      <link>https://manuflores.github.io/topological-cell-observatory/en/posts/celegans-seam-cells/</link>
       <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
       <author>Manu Flores</author>
-      <guid>http://localhost:1313/topological-cell-observatory/en/posts/celegans-seam-cells/</guid>
+      <guid>https://manuflores.github.io/topological-cell-observatory/en/posts/celegans-seam-cells/</guid>
       <description>&lt;h2 id=&#34;census-of-developmental-cell-manifolds&#34;&gt;Census of developmental cell manifolds&lt;/h2&gt;&#xA;&lt;p&gt;We define cell state manifolds as a simplicial complex filtration from a sc point cloud. Given the biological processes they represent, cell state manifolds have remarkable structure. However, we lack systematic approach to study this structure or shape/form.  Despite a priori, shapes and forms may sound as something difficult to define precisely,  in 1895 Poincaré developed the foundations of a new mathematical field, algebraic topology, that focuses on quantifying shape via the computation of invariants, that is, properties that remain unchanged after perturbation / deformation. In other words, topological invariants are numbers that encapsulate key properties of shapes. In more recent years, there has been a significant advance computational topology. In this study we leverage concepts from topology to systematically quantify the global structure of cell state manifolds across the animal kingdom.&lt;/p&gt;</description>
       
     </item>
     <item>
       <title>The stem cells of Clytia haemispherica (WIP)</title>
-      <link>http://localhost:1313/topological-cell-observatory/en/posts/clytia-stem-cells/</link>
+      <link>https://manuflores.github.io/topological-cell-observatory/en/posts/clytia-stem-cells/</link>
       <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
       <author>Manu Flores</author>
-      <guid>http://localhost:1313/topological-cell-observatory/en/posts/clytia-stem-cells/</guid>
+      <guid>https://manuflores.github.io/topological-cell-observatory/en/posts/clytia-stem-cells/</guid>
       <description>&lt;h2 id=&#34;census-of-developmental-cell-manifolds&#34;&gt;Census of developmental cell manifolds&lt;/h2&gt;&#xA;&lt;p&gt;We define cell state manifolds as a simplicial complex filtration from a sc point cloud. Given the biological processes they represent, cell state manifolds have remarkable structure. However, we lack systematic approach to study this structure or shape/form.  Despite a priori, shapes and forms may sound as something difficult to define precisely,  in 1895 Poincaré developed the foundations of a new mathematical field, algebraic topology, that focuses on quantifying shape via the computation of invariants, that is, properties that remain unchanged after perturbation / deformation. In other words, topological invariants are numbers that encapsulate key properties of shapes. In more recent years, there has been a significant advance computational topology. In this study we leverage concepts from topology to systematically quantify the global structure of cell state manifolds across the animal kingdom.&lt;/p&gt;</description>
       
     </item>
