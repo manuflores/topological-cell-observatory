@@ -31,10 +31,10 @@ This property of cell invariance is known as [eutely](https://en.wikipedia.org/w
 {{< figure
   src="https://raw.githubusercontent.com/manuflores/topological-cell-observatory/refs/heads/main/assets/images/celegans-cell-lineage.png"
   label="celegans-cell-lineage"
-  title="A setion of the embryonic cell lineage of C. elegans (ABarp)"
+  title="A setion of the embryonic cell lineage of C. elegans."
   type="full"
   caption="(From original text) Vertical axis represents time at 20°C from 0 min at first cleavage to 800 min at hatching... Each terminal branch of the embryonic lineage is lahelled either with X (indicating cell death; the position of the X on the time axis indicates the time of maximum refractility) or with a lineage name followed by a functional name."
-  attr="see Sulston et al. 1983"
+  attr="See Sulston et al. 1983"
   attrlink="https://www.sciencedirect.com/science/article/pii/0012160683902014"
   alt="Napoleonic wars"
   link="https://www.sciencedirect.com/science/article/pii/0012160683902014"
