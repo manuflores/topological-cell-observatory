@@ -38,7 +38,6 @@ This property of cell invariance is known as [eutely](https://en.wikipedia.org/w
   alt="Napoleonic wars"
   link="https://www.sciencedirect.com/science/article/pii/0012160683902014"
  >}}
-{{< section "end" >}}
 
 <!--![A section of the embryonic lineage of C. elegans from Sulston et al. 1983]()-->
 
